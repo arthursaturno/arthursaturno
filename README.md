@@ -1,7 +1,5 @@
-### Olá, eu sou o Arthur Henrique 👋
+### Olá, eu sou o Arthur Henrique 🐱‍👤
 
-
-- 🔭 I’m currently working on ...
 
 <div align="center">
   <a href="https://github.com/arthurhenrique22">
