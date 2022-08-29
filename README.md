@@ -11,7 +11,9 @@
 ##
   <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Arthur-JavaScript height="35" width="45" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Arthur-JavaScript" height="40" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  
 </div>
   
   ##
