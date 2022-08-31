@@ -1,4 +1,4 @@
-### Olá, eu sou o Arthur Henrique 🐱‍👤
+### Olá, eu sou o Arthur Henrique, tenhos apenas 18 anos 🐱‍👤
 
 
 <div align="center">
