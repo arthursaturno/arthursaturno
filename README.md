@@ -1,12 +1,7 @@
 ### Opa, eu sou o Arthur, mas pode chamar de Saturno!! 🐱‍👤
 
 
-<div align="center">
-  <a href="https://github.com/arthurhenrique22">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurhenrique22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhenrique22&layout=compact&langs_count=7&theme=dracula"/>
-  
-</div>
+
 
 ##
   <div style="display: inline_block"><br>
