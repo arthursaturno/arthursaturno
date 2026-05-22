@@ -18,15 +18,16 @@ Meu foco é construir produtos escaláveis, performáticos e sustentáveis, com 
 
 ## 🚀 Sobre mim
 
-- 💙 Focado em **Flutter/Dart** para aplicações Android, iOS e Web.
-- 🤖 Atuação com **Android nativo**, **Kotlin**, **Jetpack Compose**, **Material 3**, **StateFlow**, **Coroutines**, **Hilt** e **Room Database**.
-- 🧱 Experiência com **Clean Architecture**, **MVVM**, **BLoC**, **Provider**, **Riverpod**, modularização e separação entre camadas.
+- 💙 Focado em **Flutter/Dart** para aplicações Android, iOS e Web, com experiência em arquitetura, componentização, performance e escalabilidade.
+- 📱 Atuação com **BLoC**, **Provider**, **Riverpod**, **ChangeNotifier**, Firebase, notificações, analytics e publicação em lojas.
+- 🤖 Desenvolvimento Android nativo com **Kotlin**, **Jetpack Compose**, **Material 3**, **StateFlow**, **Coroutines**, **Hilt** e **Room Database**.
+- 🧱 Experiência com **Clean Architecture**, **MVVM**, modularização e separação entre camadas de presentation, domain e data.
+- 🏗️ Desenvolvimento com **ViewModel**, **UseCases**, **Repositories**, **DataSources** e injeção de dependência.
+- 🔄 Construção de fluxos reativos com **Coroutines**, **Flow** e **StateFlow**, tratando estados, eventos e sincronização de dados.
+- 🌐 Integração com **REST APIs**, **GraphQL**, **Retrofit**, **OkHttp**, **AWS Cognito**, pagamentos e serviços externos.
+- 🗄️ Persistência local, cache local e armazenamento seguro.
 - 🎨 Construção e evolução de **Design Systems** e componentes reutilizáveis.
-- 🔌 Integração com **REST APIs**, **GraphQL**, **Retrofit**, **OkHttp**, **Firebase**, **AWS Cognito**, pagamentos, analytics e notificações.
-- 🔐 Implementação de autenticação, interceptors, armazenamento seguro de tokens e tratamento estruturado de exceções.
-- 📸 Experiência com recursos nativos como **CameraX**, **ML Kit**, leitura de QR Code, imagens com **Coil** e gráficos com **Vico Charts**.
-- 🧪 Prática com testes unitários, instrumentados e de contrato usando **MockK**, **Turbine**, **MockWebServer**, **Konsist**, **JUnit**, **Hilt Testing** e **Compose UI Test**.
-- 📱 Experiência com publicação e manutenção de apps na **Play Store** e **App Store**.
+- 🧪 Prática com testes unitários, instrumentados e de contrato.
 - 🧠 Uso IA de forma criteriosa para apoiar desenvolvimento, revisão, testes e documentação.
 
 ---
