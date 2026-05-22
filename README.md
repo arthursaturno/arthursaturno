@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0245CA&height=140&section=header&text=Arthur%20Saturno&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# Olá, eu sou o Arthur Saturno 👨‍💻
-
 ### Engenheiro de Software | Flutter | Dart | Kotlin | Jetpack Compose
 
 Sou Engenheiro de Software com foco em desenvolvimento mobile, atuando na criação, evolução e sustentação de aplicações Android, iOS e Web com **Flutter/Dart** e Android nativo com **Kotlin**, **Jetpack Compose** e **Material 3**.
