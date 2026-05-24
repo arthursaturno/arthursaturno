@@ -54,16 +54,6 @@ Meu foco é construir produtos escaláveis, performáticos e sustentáveis, com 
 ![Material 3](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 
-### Android moderno
-
-![StateFlow](https://img.shields.io/badge/StateFlow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=for-the-badge&logo=dagger&logoColor=white)&nbsp;
-![Room Database](https://img.shields.io/badge/Room%20Database-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![Navigation Compose](https://img.shields.io/badge/Navigation%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)&nbsp;
-![ViewModel](https://img.shields.io/badge/ViewModel-0F172A?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![KSP](https://img.shields.io/badge/KSP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-
 ### Arquitetura e padrões
 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2E3440?style=for-the-badge&logo=codacy&logoColor=white)&nbsp;
