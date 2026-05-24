@@ -32,13 +32,11 @@ Meu foco é construir produtos escaláveis, performáticos e sustentáveis, com 
 
 ## 🧩 Principais entregas
 
-- Migração e modernização de aplicações mobile, incluindo **Xamarin para Flutter** e **Flutter para Android nativo com Kotlin/Compose**.
+- Migração e modernização de aplicações mobile, incluindo **Xamarin para Flutter** e **Flutter para Android nativo com Kotlin/Compose**. Participei e orquestrei a migração de um **aplicativo corporativo de entregas**, com mapa em tempo real para acompanhamento do produto em rota, em uma experiência semelhante ao modelo da Uber aplicado à logística. Com features críticas envolvendo **geolocalização**, fluxo operacional de motoristas, acompanhamento em tempo real, mapas online/offline, estados de entrega e sincronização de dados.
 - Construção de bases reutilizáveis com **Design System**, componentes compartilhados e padrões de arquitetura.
 - Implementação de fluxos críticos como autenticação, notificações em tempo real, mapas online/offline, pagamentos, analytics, GraphQL e publicação em lojas.
 - Evolução de qualidade técnica com testes unitários, testes de contrato, code review, documentação, CI/CD e tratamento estruturado de exceções.
 - Desenvolvimento de produtos com foco em performance, escalabilidade, manutenção e experiência do usuário.
-- Participei e orquestrei a migração de um **aplicativo corporativo de entregas**, com mapa em tempo real para acompanhamento do produto em rota, em uma experiência semelhante ao modelo da Uber aplicado à logística.
-- Experiência com features críticas envolvendo **geolocalização**, fluxo operacional de motoristas, acompanhamento em tempo real, mapas online/offline, estados de entrega e sincronização de dados.
 ---
 
 ## 🛠️ Stack principal
