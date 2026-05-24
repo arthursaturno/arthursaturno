@@ -8,8 +8,6 @@ Sou Engenheiro de Software com foco em desenvolvimento mobile, atuando na criaç
 
 Tenho experiência com arquitetura limpa, modularização, Design System, integrações **REST** e **GraphQL**, Firebase, AWS Cognito, CI/CD, testes, publicação em lojas e migração de aplicações legadas para stacks modernas.
 
-Atualmente também venho atuando com Android nativo moderno, utilizando **MVVM**, **StateFlow**, **Coroutines**, **Hilt**, **Room Database**, **Navigation Compose**, **Retrofit**, **OkHttp**, **Kotlinx Serialization**, recursos nativos e testes automatizados.
-
 Meu foco é construir produtos escaláveis, performáticos e sustentáveis, com código limpo, boa experiência de usuário e impacto real no negócio.
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer illustration"/>
