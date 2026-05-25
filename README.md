@@ -52,17 +52,6 @@ Meu foco é construir produtos escaláveis, performáticos e sustentáveis, com 
 ![Material 3](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)&nbsp;
 
-### Arquitetura e padrões
-
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2E3440?style=for-the-badge&logo=codacy&logoColor=white)&nbsp;
-![MVVM](https://img.shields.io/badge/MVVM-4B5563?style=for-the-badge&logo=buffer&logoColor=white)&nbsp;
-![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![Riverpod](https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![SOLID](https://img.shields.io/badge/SOLID-111827?style=for-the-badge&logo=dependabot&logoColor=white)&nbsp;
-![Design System](https://img.shields.io/badge/Design%20System-0245CA?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
-![Modularização](https://img.shields.io/badge/Modularização-1F2937?style=for-the-badge&logo=dependabot&logoColor=white)&nbsp;
-
 ### APIs, backend, integrações, Banco de dados e persistência
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
