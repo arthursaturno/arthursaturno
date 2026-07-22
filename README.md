@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Arthur Saturno 👨‍💻
 
-### Engenheiro de Software | Flutter | Dart | Kotlin | Jetpack Compose
+### Engenheiro de Software | Flutter | Dart | Kotlin | Jetpack Compose | React/Typescript
 
-Sou Engenheiro de Software com foco em desenvolvimento mobile, atuando na criação, evolução e sustentação de aplicações Android, iOS e Web com **Flutter/Dart** e Android nativo com **Kotlin**, **Jetpack Compose** e **Material 3**.
+Sou Engenheiro de Software com foco em desenvolvimento mobile, atuando na criação, evolução e sustentação de aplicações Android, iOS e Web com **Flutter/Dart** e Android nativo com **Kotlin**, **Jetpack Compose** e **Material 3**. Também atuo usando React/Typescript para criação de plataformas web.
 
 Tenho experiência com arquitetura limpa, modularização, Design System, integrações **REST** e **GraphQL**, Firebase, AWS Cognito, CI/CD, testes, publicação em lojas e migração de aplicações legadas para stacks modernas.
 
