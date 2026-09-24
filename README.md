@@ -2,13 +2,17 @@
 
 # Olá, eu sou o Arthur Saturno 👨‍💻
 
-### Engenheiro de Software | Flutter | Dart | Kotlin | Jetpack Compose | React/Typescript
+### Engenheiro de Software | Full Stack | Flutter · Kotlin · React/TypeScript · Python · Java · PHP · AWS
 
-Sou Engenheiro de Software com foco em desenvolvimento mobile, atuando na criação, evolução e sustentação de aplicações Android, iOS e Web com **Flutter/Dart** e Android nativo com **Kotlin**, **Jetpack Compose** e **Material 3**. Também atuo usando React/Typescript para criação de plataformas web.
+Engenheiro de Software com experiência na criação, evolução e manutenção de aplicações Mobile, Web e Backend, atuando em projetos de médio e grande porte desde a concepção e arquitetura até a publicação, monitoramento e suporte em produção.
 
-Tenho experiência com arquitetura limpa, modularização, Design System, integrações **REST** e **GraphQL**, Firebase, AWS Cognito, CI/CD, testes, publicação em lojas e migração de aplicações legadas para stacks modernas.
+Atualmente atuo de ponta a ponta em uma plataforma utilizada por mais de 200 estabelecimentos e cerca de 20 mil usuários ativos por mês, trabalhando com Flutter , Kotlin e Jetpack Compose no Android, React e TypeScript no Web, e serviços backend com Python e AWS.
 
-Meu foco é construir produtos escaláveis, performáticos e sustentáveis, com código limpo, boa experiência de usuário e impacto real no negócio.
+Tenho forte experiência com arquiteturas modernas como MVVM e Clean Architecture, modularização, integração com APIs REST e GraphQL, além de práticas voltadas a performance, segurança, escalabilidade e experiência do usuário.
+
+Possuo vivência com CI/CD, testes automatizados e estratégias de qualidade, além de serviços como AWS, Firebase, Cognito, Crashlytics, Analytics e notificações push. Também atuei em projetos envolvendo pagamentos, autenticação, offline-first, sincronização de dados, whitelabel, dashboards, integrações e sistemas em tempo real.
+
+Ao longo da carreira, trabalhei profissionalmente com Kotlin, Java, Flutter/Dart, React, TypeScript, Python e PHP/Laravel, colaborando de perto com engenharia, design, QA e produto para entregar soluções estáveis, escaláveis e alinhadas às necessidades do negócio.
 
 
 ---
