@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Arthur Saturno 👨‍💻
 
-### Engenheiro de Software | Full Stack | Flutter · Kotlin · React/TypeScript · Python · Java · PHP · AWS
+### Engenheiro de Software | Full Stack | Flutter | Kotlin | React/TypeScript | Python | Java | PHP | AWS
 
 Engenheiro de Software com experiência na criação, evolução e manutenção de aplicações Mobile, Web e Backend, atuando em projetos de médio e grande porte desde a concepção e arquitetura até a publicação, monitoramento e suporte em produção.
 
