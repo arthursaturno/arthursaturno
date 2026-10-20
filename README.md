@@ -6,7 +6,7 @@
 
 Engenheiro de Software com experiência na criação, evolução e manutenção de aplicações Mobile, Web e Backend, atuando em projetos de médio e grande porte desde a concepção e arquitetura até a publicação, monitoramento e suporte em produção.
 
-Atualmente atuo de ponta a ponta em um ecosistema utilizada por mais de 200 Academias e cerca de 30 mil usuários ativos por mês, trabalhando com Flutter , Kotlin e Jetpack Compose no Android, React e TypeScript no Web, e serviços backend com Python e AWS.
+Atualmente atuo de ponta a ponta em um ecossistema utilizada por mais de 200 Academias e cerca de 30 mil usuários ativos por mês, trabalhando com Flutter , Kotlin e Jetpack Compose no Android, React e TypeScript no Web, e serviços backend com Python e AWS.
 
 Tenho forte experiência com arquiteturas modernas como MVVM e Clean Architecture, modularização, integração com APIs REST e GraphQL, além de práticas voltadas a performance, segurança, escalabilidade e experiência do usuário.
 
