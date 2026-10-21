@@ -8,12 +8,9 @@ Engenheiro de Software com experiência na criação, evolução e manutenção 
 
 Atualmente atuo de ponta a ponta em um ecossistema utilizada por mais de 200 Academias e cerca de 30 mil usuários ativos por mês, trabalhando com Flutter , Kotlin e Jetpack Compose no Android, React e TypeScript no Web, e serviços backend com Python e AWS.
 
-Tenho forte experiência com arquiteturas modernas como MVVM e Clean Architecture, modularização, integração com APIs REST e GraphQL, além de práticas voltadas a performance, segurança, escalabilidade e experiência do usuário.
+Ao longo da carreira, trabalhei profissionalmente com Flutter/Dart, Kotlin, Java, React, TypeScript, Python e PHP/Laravel, colaborando de perto com engenharia, design, QA e produto para entregar soluções estáveis, escaláveis e alinhadas às necessidades de negócio.
 
-Possuo vivência com CI/CD, testes automatizados e estratégias de qualidade, além de serviços como AWS, Firebase, Cognito, Crashlytics, Analytics e notificações push. Também atuei em projetos envolvendo pagamentos, autenticação, offline-first, sincronização de dados, whitelabel, dashboards, integrações e sistemas em tempo real.
-
-Ao longo da carreira, trabalhei profissionalmente com Kotlin, Java, Flutter/Dart, React, TypeScript, Python e PHP/Laravel, colaborando de perto com engenharia, design, QA e produto para entregar soluções estáveis, escaláveis e alinhadas às necessidades do negócio.
-
+Tenho forte experiência com arquiteturas modernas como MVVM e Clean Architecture, modularização, integração com APIs REST e GraphQL, além de práticas voltadas a performance, segurança, escalabilidade e experiência do usuário. Possuo vivência com CI/CD, testes automatizados e estratégias de qualidade, além de serviços como AWS, Firebase, Cognito, Crashlytics, Analytics e notificações push. Também atuei em projetos envolvendo pagamentos, autenticação, offline-first, sincronização de dados, whitelabel, dashboards, integrações e sistemas em tempo real.
 
 ---
 
