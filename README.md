@@ -6,7 +6,7 @@
 
 Engenheiro de Software com experiência na criação, evolução e manutenção de aplicações Mobile, Web, Desktop e Backend, atuando em projetos de médio e grande porte desde a concepção e arquitetura até a publicação, monitoramento e suporte em produção.
 
-Atualmente atuo de ponta a ponta na evolução de um ecossistema Fitmass utilizado por mais de 250 academias e cerca de 30 mil usuários ativos por mês, incluindo operações whitelabel de grandes marcas do mercado fitness, como a Bluefit, com aplicativo próprio e regras de negócio personalizadas. Trabalho com Flutter, Kotlin e Jetpack Compose, React e TypeScript, além de serviços backend com Python e AWS.
+Atualmente atuo de ponta a ponta na evolução de um ecossistema Fitmass utilizado por mais de 250 academias e cerca de 30 mil usuários ativos por mês, incluindo operações whitelabel de grandes marcas do mercado fitness, como a Bluefit, com aplicativo próprio e regras de negócio personalizadas. Trabalho com Flutter, Kotlin e Jetpack Compose, React e TypeScript, além de serviços backend com Python e AWS. Uso de IA (Claude Code, Claude design) para geração, revisão, testes e documentação, com análise crítica e aderência aos padrões.
 
 Ao longo da carreira, trabalhei profissionalmente com Flutter/Dart, Kotlin, Java, React, TypeScript, Python e PHP/Laravel, colaborando de perto com engenharia, design, QA e produto para entregar soluções estáveis, escaláveis e alinhadas às necessidades de negócio.
 
